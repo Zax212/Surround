@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=playerNumber
+comment0.target=Cell(int)
+comment1.params=
+comment1.target=Cell()
+comment2.params=
+comment2.target=int\ getPlayerNumber()
+comment3.params=p
+comment3.target=void\ setPlayerNumber(int)
+numComments=4
